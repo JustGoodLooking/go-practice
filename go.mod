@@ -1,3 +1,3 @@
-module github.com/JustGoodLooking/go-practice
+module go-practice
 
 go 1.18
